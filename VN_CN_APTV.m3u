@@ -2,23 +2,23 @@
 #PLAYLIST: VN + China TV for APTV / CarPlay
 # Generated automatically by GitHub Actions.
 # Upstream: IPTV-org (VN) + best-fan/iptv-sources (CN).
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png",VTV1 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV1.vn@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg/960px-Logo_VTV1_-_%C4%90%C3%A0i_Truy%E1%BB%81n_h%C3%ACnh_Vi%E1%BB%87t_Nam.svg.png",VTV1 HD (720p)
 https://dethich.pw/vtv1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV2.vn@HD" tvg-logo="https://i.imgur.com/qWWpYRR.png",VTV2 HD (1080p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV2.vn@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/VTV2_logo_07-09-2026.png/960px-VTV2_logo_07-09-2026.png",VTV2 HD (1080p)
 http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png",VTV3 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV3.vn@HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/VTV3_logo_07-09-2026.png/960px-VTV3_logo_07-09-2026.png",VTV3 HD (720p)
 https://dethich.pw/vtv3/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png",VTV4 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV4.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/VTV4_logo_2026.png",VTV4 HD (720p)
 https://dethich.pw/vtv4/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png",VTV5 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV5.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/VTV5_logo_2025.png",VTV5 HD (720p)
 https://dethich.pw/vtv5/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6 (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV6.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp",VTV6 (720p)
 https://dethich.pw/vtv6/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV7.vn@HD" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV7.vn@HD" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp",VTV7 HD (720p)
 https://dethich.pw/vtv7/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV8.vn@HD" tvg-logo="https://i.imgur.com/rf9adGJ.png",VTV8 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV8.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV8_logo_2026.png",VTV8 HD (720p)
 https://dethich.pw/vtv8/index.m3u8
-#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV9.vn@HD" tvg-logo="https://i.imgur.com/QiY55sy.png",VTV9 HD (720p)
+#EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="VTV9.vn@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/VTV9_logo_2026.png",VTV9 HD (720p)
 https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 group-title="🇻🇳 Việt Nam" tvg-id="HTV7.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/HTV7_logo.webp",HTV7 (720p)
 https://dethich.pw/htv7/index.m3u8
